@@ -1,0 +1,11 @@
+moviepy==1.0.3
+Pillow==11.3.0
+opencv-python==4.10.0.84
+imageio==2.37.3
+imageio-ffmpeg==0.6.0
+numpy==2.4.4
+decorator==4.4.2
+requests==2.33.1
+tqdm==4.67.3
+proglog==0.1.12
+python-dotenv==1.2.2
