@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛣️ Lane Detection System
 
 A comprehensive computer vision project for detecting lane markings on roads using OpenCV, ideal for autonomous vehicles and driver assistance systems.
@@ -395,3 +396,6 @@ jupyter notebook Lane_Detection.ipynb
 ---
 
 **Happy Lane Detecting! 🛣️✨**
+=======
+# Lane-Detection-System-Computer-Vision-Project-
+>>>>>>> a5216eacc09afcf8329abe8ba8a699e1d65c0b5e
